@@ -151,10 +151,10 @@ map <up> k
 map <down> j
 
 " Move between windows with shift + direction
-map <S-l> <C-w>l
-map <S-h> <C-w>h
-map <S-k> <C-w>k
-map <S-j> <C-w>j
+"map <S-l> <C-w>l
+"map <S-h> <C-w>h
+"map <S-k> <C-w>k
+"map <S-j> <C-w>j
 map <S-right> <C-w>l
 map <S-left> <C-w>h
 map <S-up> <C-w>k
